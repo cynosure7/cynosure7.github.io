@@ -1,0 +1,33 @@
+---
+layout: default
+title: Hello Owen - Tech
+category: tech
+---
+
+<section class="inner">	
+	<span class="site-tag">
+	{% assign tags = site.tags | sort %}
+	{% for tag in tags %}
+	    <a href="/tags/#{{ tag | first | slugify }}"
+	        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+	            {{ tag[0] | replace:'-', ' ' }} 
+	    </a>
+	{% endfor %}
+	</span>
+
+	<ul class="posts">
+		{% for post in site.posts %}
+			{% if post.category == "tech" %}
+				{% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+				{% if year != y %}
+					{% assign year = y %}
+					<li class="listing-seperator">{{ y }}</li>
+				{% endif %}
+					<li class="listing-item">
+						<span class="date">{{ post.date | date_to_string }}</span>
+						<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+					</li>
+			{% endif %}	
+		{% endfor %}
+	</ul>
+</section>
