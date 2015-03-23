@@ -1,21 +1,22 @@
 ul{margin:0;padding:0;list-style:none}
+
 .ro-timeline{position:relative}
-.ro-timeline>li 
+
 .ro-time{position:absolute;display:block;margin-top:16px}
-.ro-timeline>li 
 .ro-time span{display:block;text-align:left;font-size:1rem;font-weight:700;line-height:1.5;color:black}
-.ro-timeline:before{content:'';position:absolute;top:0;bottom:0;width:5px;background:#eee;left:19%;margin-left:-8px}
-.ro-timeline>li 
-.ro-icon{position:relative;width:40px;height:40px;font-size:1.5rem;line-height:40px;color:black;-webkit-font-smoothing:antialiased;speak:none;float:left;background:white;border-radius:50%;box-shadow:0 0 0 5px #eee;text-align:center;left:19%;margin:5px 0 0 -25px}
-.ro-timeline>li .ro-label{margin:0 0 18px 25%;background:#f6f6f6;color:black;padding:15px 15px 5px;font-size:1rem;line-height:1.8;position:relative;border-radius:4px}
-.ro-timeline>li:nth-child(odd) 
+
+.ro-timeline:before{content:'';position:absolute;top:0;bottom:0;width:5px;background:#eee;left:8%;margin-left:-8px}
+
+.ro-icon{position:relative;width:40px;height:40px;font-size:1.5rem;line-height:40px;color:black;-webkit-font-smoothing:antialiased;speak:none;float:left;background:white;border-radius:50%;box-shadow:0 0 0 5px #eee;text-align:center;left:8%;margin:5px 0 0 -25px}
+
+.ro-label{margin:0 0 18px 12%;background:#f6f6f6;color:black;padding:15px 15px 5px;font-size:1rem;line-height:1.8;position:relative;border-radius:4px}
 .ro-label{background:#f2f2f2}
-.ro-timeline>li 
 .ro-label h3{margin:0;margin-top:-8px;padding:0 0 5px 0;line-height:24px;border-bottom:1px solid rgba(0,0,0,0.1)}
-.ro-timeline>li 
-.ro-label span{float:right;font-weight:400;font-size:1rem;line-height:27px;color:#777}
-.ro-timeline>li 
+.ro-label span{float:right;font-weight:500;font-size:1.2rem;line-height:27px;}
+.ro-label h4{margin:0;margin-top:-8px;padding:5px 0 0 0;font-weight:400;color:#777}
+.ro-label p{margin-top:-2px;}
+
 .ro-label:after{right:100%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none;border-right-color:#f6f6f6;border-width:10px;top:14px}
-.ro-timeline>li:nth-child(odd) 
+
 .ro-label:after{border-right-color:#f2f2f2}
 
