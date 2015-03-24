@@ -38,7 +38,7 @@ h1, h2, h3 {
   line-height: 1.2em;
 }
 
-h1 { font-size: 1.7em; line-height: 1.7em; font-weight: 600; margin-top: 0em;}
+h1 { font-size: 1.7em; line-height: 1.7em; margin-top: 0em;}
 h1 small { font-weight: 400; font-size: 50%; color: #999; }
 
 h2 { font-weight: 500; }
@@ -292,6 +292,7 @@ ul.posts .date {
   display: inline-block;
   color: #666;
   font-family: "Ubuntu Mono";
+  font-size: 18px;
 }
 
 .listing-item, .listing-seperator {
@@ -299,6 +300,7 @@ ul.posts .date {
 }
 .listing-item a {
     padding: 0.2em 1em;
+    font-size: 18px;
 }
 .listing-item time {
     color: #999999;
