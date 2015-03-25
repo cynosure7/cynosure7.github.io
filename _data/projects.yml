@@ -1,25 +1,41 @@
-- name: HABIR
+- name: OAuth 2.0 Cisco Implementation
   image: HABIRH_with_shadow.png
   url: http://helloowen.com
-  role: scrum team member
-  description: >
-    project description.
+  role: Scrum Team Member
+  description: OAuth 2 Service is the authorization component in the integrated collaboration experience platform. It is based on OAuth 2.0 protocol, the industrial standard authorization protocol, high adoption within service developer community and high interoperability with third party applications. I take charge of some features, bugs fix, and performance tuning.
   technologies:
     - Java
-    - Tomcat
-    - Spring
+    - Spring, Jersey
+    - LDAP
 
-- name: PCVwithPython
+- name: Internet Public Opinion Detection System
   image: PCVH_with_shadow.png
   url: http://helloowen.com
-  role: scrum team member
-  description: >
-    project description.
+  role: Scrum Team Member
+  description: The system detects the Internet information contains the keywords provided by the users. It can detect emergencies and provide early warning service in real-time. My work involves content extraction, meta-search data crawling and comment extraction of the popular portal website.
   technologies:
     - Java
-    - Spring
-    - HTML
+    - HTML Parser
+    - My SQL
 
+- name: IBM VOCA (Voice of Customer Analytic)
+  image: PCVH_with_shadow.png
+  url: http://helloowen.com
+  role: Scrum Team Member
+  description: IBM VOCA is designed to enable businesses to better identify and manage factors critical to ustomer satisfaction by pinpointing the root causes of negative service experiences. I wrote AQL statements to extract latent facets and associated sentiments in unstructured text and used Java to develop statistical view.
+  technologies:
+    - Java AQL
+    - Spring SystemT Dojo
+    - Unstructed Text Analysis
+
+- name: AIA Group Insurance Department Support System
+  image: PCVH_with_shadow.png
+  url: http://helloowen.com
+  role: Team Member
+  description: This system provides services such as personnel registration and consulting management for Group Insurance Department. I use ASP and SQL Sever2005 to achieve some functions.
+  technologies:
+    - ASP
+    - SQL Server
 
 
 
