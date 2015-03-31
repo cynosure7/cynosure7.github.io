@@ -7,7 +7,7 @@ tags: English
 ---
 **Language Goal: Talk about payment methods**
 
-#Vocabulary
+##Vocabulary
 1. check  
 Can I pay by check?
 2. cash  
@@ -25,7 +25,7 @@ Many local businesses don’t like using checks, because they have to **chase pe
 8. fraud  
 She was charged with credit card fraud. 
 
-#Phrases 
+##Phrases 
 1. on sale  
 Are these sweaters on sale?
 2. take off  
@@ -39,13 +39,13 @@ It's not convenient to carry large amount of cash with us when shopping.
 6. at will
 The animals are allowed to **wander** at will in the park.
 
-#Dialogue Reading
+##Dialogue Reading
 We have a big sale for Christmas. Everything is on sale.  
 Isn't it possible to give me even just a little more discount?  
 If you buy two pairs, we'll meet you halfway.  
 We'll take 30% off.
 
-#Passage Reading
+##Passage Reading
 What form of money do you use most? Cash, check, debit card or credit card?  
 When we buy items costing small amounts of money, we can pay in cash.  
 But most of the time, we won't carry a lot of cash with us. Then we can pay in check, or by debit cards and credit cards.  
@@ -57,10 +57,10 @@ And if they pay late, there will be huge penalties.
 Choose at will.  
 You can add some answers from stock knowledge.
 
-#Video in preview
+##Video in preview
 ...
 
-#Grammar
+##Grammar
 spend + money on something  
 something cost + money
 
@@ -73,19 +73,19 @@ pay cash / in cash / by cash
 pay in / by check  
 pay by debit card / credit card
 
-#Teacher's suggestions
-##Grammar Corrections:
+##Teacher's suggestions
+###Grammar Corrections:
 GRAMMAR CORRECTIONS:  
 *No grammar corrections but you can improve your sentences by using your vocabulary words and other unusual words that you don`t usually use.This means you need to broaden your vocabulary. Keep up the good work!
 
-##Pronunciation：
+###Pronunciation：
 No mispronunciations but you can practice these words:  
 1. overdraft    /ˈəʊ.və.drɑːft/  
 2. penalty  /ˈpen.əl.ti/  
 3. fraud   /frɔːd/  
 
 
-##Vocabulary and Expression
+###Vocabulary and Expression
 1. overdraft = /ˈəʊ.və.drɑːft/  
 -an amount of money that a customer with a bank account is temporarily allowed to owe to the bank, or the agreement that allows this.  
 to run up/pay off an overdraft
@@ -105,7 +105,7 @@ There was a penalty clause which said you had to pay half the cost if you cancel
 credit card fraud  
 He is fighting extradition to Hong Kong to face trial on fraud charges.
 
-#Teacher's input in Chat:  
+##Teacher's input in Chat:  
 snow  
 What bills do you need to pay in your daily life? How do you usually pay for them, by cash or by card? Why? …  
 50000 pesos  
@@ -114,11 +114,11 @@ meet sb halfway
 › to do some of the things that someone wants you to do, in order to show that you want to reach an agreement or improve your relationship with them  
 haggle
 
-#Review:
+##Review:
 
-##Passed Test after class.
+###Passed Test after class.
 //DONE
 
-##Video in review
+###Video in review
 
 

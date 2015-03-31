@@ -7,7 +7,7 @@ tags: English
 ---
 **Language Goal: Talk about accommodations**
 
-#Vocabulary
+##Vocabulary
 1. reservation  
 Room Reservations. May I help you?  
 2. rear  
@@ -25,13 +25,13 @@ The relief agency distributed food among the poor.
 8. discount  
 There are agencies that offer discounts.  
 
-#Phrases 
+##Phrases 
 1. access to  
 The only access to the farmhouse is across the field.  
 2. look out for someone  
 I'll look out for you at the conference.
 
-#Dialogue Reading
+##Dialogue Reading
 -I'd like to book a double room for Wednesday next week.  
 -Yes, madam, a double room for Wednesday, August 7th. With a front view or rear view?  
 
@@ -40,7 +40,7 @@ What's the price difference?
 -How soon will it be settled?  
 -In five minutes.
 
-#Passage Reading
+##Passage Reading
 Work within your budget whenever possible.  
 
 Hotels that are near shopping areas, train stations or the city center charge higher rates compared to those located elsewhere.  
@@ -53,10 +53,10 @@ Most international hotel chains may have similar facilities (health clubs, spas,
 
 Other things you can look out for include a concierge, shuttle services to the city, airport transfers as well as good laundry services.
 
-#Video in preview
+##Video in preview
 ...
 
-#Grammar
+##Grammar
 -How long will you be staying here?  
 -We'll be staying here for three days.  
 
@@ -72,17 +72,17 @@ Other things you can look out for include a concierge, shuttle services to the c
 -How soon will you be there?  
 -In an hour.
 
-#Teacher's suggestions
-##Grammar Corrections:
+##Teacher's suggestions
+###Grammar Corrections:
 *No grammar corrections but you can improve your sentences by using your vocabulary words and other unusual words that you don`t usually use.This means you need to broaden your vocabulary. Keep up the good work!
 
-##Pronunciation：
+###Pronunciation：
 No mispronunciations but you can practice these words:  
 1. reservation = /ˌrez.əˈveɪ.ʃən/   
 2. concierge = /ˌkɒn.siˈeəʒ/  
 3. shuttle = /ˈʃʌt.l̩/
 
-##Vocabulary and Expression
+###Vocabulary and Expression
 
 1. reservation = /ˌrez.əˈveɪ.ʃən/ an arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you: I'd like to make a table reservation for two people for nine o'clock. Please confirm your reservation in writing by Friday. › an area of land made available for a particular group of people to live in: The family lives on a Native American reservation. › (also reserve, US also preserve) an area of land in which wild animals are protected : He's the chief warden of a big-game reservation.
 
@@ -90,13 +90,13 @@ No mispronunciations but you can practice these words:
 
 3. shuttle = /ˈʃʌt.l̩/ a vehicle or aircraft that travels regularly between two places : To get across town , you can take the shuttle from Times Square to Grand Central . The American ( space ) shuttle was able to be used many times to put payloads in space.
  
-#Teacher's input in Chat:  
+##Teacher's input in Chat:  
 //TODO
 
-#Review:
+##Review:
 
-##Passed Test after class.
+###Passed Test after class.
 //DONE
 
-##Video in review
+###Video in review
 //TODO

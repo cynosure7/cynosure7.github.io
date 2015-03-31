@@ -6,7 +6,7 @@ category: life
 tags: English
 ---
 **Language Goal: Propose actions**
-#Vocabulary
+##Vocabulary
 1. scrutinize  
 We must scrutinize and evaluate.
 2. justify  
@@ -26,7 +26,7 @@ I really don't know which argument is right.
 9. universe  
 He is questing for the secrets of the universe.
 
-#Phrases
+##Phrases
 1. work on  
 The scientists are still working on inventing new methods of reaching outer space.
 2. fill somebody in  
@@ -46,7 +46,7 @@ We take risks knowing that risk will sometimes result in failure.
 9. pick somebody up  
 Try this, it will pick you up.
 
-#Grammar
+##Grammar
 Mail the letter today, will you?   
 Try to be back by two, won't you?  
 If you want help, let me know, would you?  
@@ -56,11 +56,11 @@ Walk faster, can't you?
 Let's go to the cinema tonight, shall we?  
 Let us know your address, will you?  
 
-#Video in preview
+##Video in preview
 ...
 
 
-#Teacher's suggestions
+##Teacher's suggestions
 **GRAMMAR CORRECTIONS:**  
 *No grammar corrections but you can improve your sentences by using your vocabulary words and other unusual words that you don`t usually use. This means you need to broaden your vocabulary. Keep up the good work!
 
@@ -77,10 +77,10 @@ No mispronunciations but you can practice these words:
 
 3. resolution = [,rɛzə'luʃən] an official decision that is made after a group or organization have voted : to approve / adopt a resolution [+ to infinitive] The United Nations passed (= voted to support ) a resolution to increase aid to the Third World .
 
-#Dialogue Reading
+##Dialogue Reading
 Great! Fill me in.
 
-#Passage Reading
+##Passage Reading
 Look in the mirror and accept responsibility.  
 It's all about you. You are the only one who can turn things around or achieve the goals you set. Stop blaming and start doing, will you?  
 
@@ -92,7 +92,7 @@ I find that people who make excuses are afraid of what other people think of the
 
 Use that knowledge to allow yourself to take risks, allow yourself to fail and don't make excuses for it. You don't need to justify to someone else why you failed. All you need to do is pick yourself up and continue pursuing your goal. If you stop making excuses, you can actually focus on what you want to achieve, not why you haven't been achieving it.
 
-#Teacher's input in Chat:  
+##Teacher's input in Chat:  
 **attire**  
 **outfit**  
 She **rationalized** the expense by saying that the costly carpet she had bought would **last longer than a cheaper one**  
@@ -111,8 +111,8 @@ apologize
 showing little enthusiasm and effort :  
 daisy =flower
 
-#Review:
-##Passed Test after class.
+##Review:
+###Passed Test after class.
 //DONE
 
-##Video in review
+###Video in review

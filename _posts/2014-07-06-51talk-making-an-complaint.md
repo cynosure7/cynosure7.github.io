@@ -6,7 +6,7 @@ category: life
 tags: English
 ---
 **Language Goal: Discuss dissatisfaction**
-#Vocabulary
+##Vocabulary
 1. inadequate  
 The surveyor’s report indicates that the problem was caused by inadequate wrapping.
 2. water-stained  
@@ -24,9 +24,9 @@ The negotiation leads nowhere.
 8. delivery
 Please enter the delivery address.
 
-#Phrases
+##Phrases
 
-#Grammar
+##Grammar
 Mail the letter today, will you?   
 Try to be back by two, won’t you?  
 If you want help, let me know, would you?  
@@ -36,11 +36,11 @@ Walk faster, can’t you?
 Let’s go to the cinema tonight, shall we?  
 Let us know your address, will you?  
 
-#Video in preview
+##Video in preview
 ...
 
 
-#Teacher's suggestions
+##Teacher's suggestions
 **GRAMMAR CORRECTIONS:**  
 *No grammar corrections but you can improve your sentences by using your vocabulary words and other unusual words that you don`t usually use.This means you need to broaden your vocabulary. Keep up the good work!
 
@@ -58,10 +58,10 @@ No mispronunciations but you can practice these words:
 
 3. negotiation = /nəˌɡəʊ.ʃiˈeɪ.ʃən/ the process of discussing something with someone in order to reach an agreement with them, or the discussions themselves: The agreement was reached after a series of difficult negotiations. The exact details of the agreement are still under negotiation. Negotiation for the pay increase is likely to take several weeks.
 
-#Dialogue Reading
+##Dialogue Reading
 Quite a number of cartons were badly damaged. Many of the men's shirts were water-stained and some of them were serverely spoiled.
 
-#Passage Reading
+##Passage Reading
 The other thinf is about the voice-controlled alarm clock which I ordered through your mailorder catalogue on July 15th. When I shout at the alarm, it keeps on buzzing.
 
 This is really no way to treat any of your customers.
@@ -70,11 +70,11 @@ And I want to have it clearly announced on your site that you give refunds or re
 
 You must make a guarantee like this to reassure your customers that your are serious about keeping our business
 
-#Teacher's input in Chat:  
+##Teacher's input in Chat:  
 
 
-#Review:
-##Passed Test after class.
+##Review:
+###Passed Test after class.
 //DONE
 
-##Video in review
+###Video in review

@@ -5,13 +5,13 @@ title: Recompile Is Required If You Update Compile-time Constant
 category: tech
 tags: Java Compile-time Constant
 ---
-#Background
+##Background
 I changed a final constant, but it didn't work. I had replaced both the class A which contains constant and the class B uses the constant. But it seems Class B is also using the old value. I thought I may missed something.
 
 Exactly, once the final constant is updated, I need to recompile the class which uses this constant.
 
-#Why?
-##A Simple Example
+##Why?
+###A Simple Example
 In short, the Java compiler replaces final constant values like `VALUE` with their literal values. For Example:
 
 We define a static final constant `VALUE` in A.java
@@ -68,7 +68,7 @@ public static void main(java.lang.String[]);
 ```
 The constant `VALUE` has been replaced by the value 200 (In disassembled code, the value of VALUE is hard-coded to 200 `3:   sipush  200`). So, if you change `VAULE` in class A later but you don't recompile class B, you will still see the old value in class B.
 
-##Compile-time Constant
+###Compile-time Constant
 An important concept here is that the final field is initialized with a **compile time constant**. Obviously, a compile time constant is a constant value that is known at compile time. Here are general rules regarding compile time constants:
 
 1. They must be declared final
@@ -104,7 +104,7 @@ final int result = 3 * 2; //multiplicative operator *
 All in all, for any compile time constant, compiler must be able to deduce their value.
 
 
-#Reference
+##Reference
 http://www.androidmix.com/compile-time-constants-in-java
 
 http://docs.oracle.com/javase/specs/jls/se7/jls7.pdf

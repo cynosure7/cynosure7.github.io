@@ -6,7 +6,7 @@ category: life
 tags: English
 ---
 **Language Goal: Propose actions**
-#Vocabulary
+##Vocabulary
 1. papercut ['peipəkʌt]
 Things like silk **scarves** and papercuts are light.
 2. allowance  
@@ -28,7 +28,7 @@ The lazy man was a parasite on his family.
 10. overcharge
 The family electricity should not overcharge in operation.
 
-#Phrases
+##Phrases
 1. give somebody some suggestions  
 Can you give me some suggestions on how to get to the hotel?
 2. take a / the call  
@@ -42,18 +42,18 @@ When the reception was over, the newlyweds ran to their “decorated” car and 
 6. chase away  
 Some working dogs will even chase away wild animals.
 
-#Grammar
+##Grammar
 —Have you ever been to South America?  
 —No,I’ve never been there.  
 There are a few things that they have not done yet.  
 I have distrusted her ever since she cheated me.  
 Oh, what secret is it? I’ve already pricked up my ears.
 
-#Video in preview
+##Video in preview
 ...
 
 
-#Teacher's suggestions
+##Teacher's suggestions
 **GRAMMAR CORRECTIONS:**  
 *No grammar corrections but you can improve your sentences by using your vocabulary words and other unusual words that you don`t usually use.This means you need to broaden your vocabulary. Keep up the good work!
 
@@ -71,21 +71,21 @@ No mispronunciations but you can practice these words:
 
 3. initiate = /ɪˈnɪʃ.i.eɪt/ to cause something to begin : Who initiated the violence?
 
-#Dialogue Reading
+##Dialogue Reading
 Anything in Chinese. But since your luggage allowance is only 20 kilos, you'd better buy things that don't weight too much. Things like silk scarves and papercut are light, and they make lovely present.
 
 Jack has already finished his homework since an hour ago.
 
-#Passage Reading
+##Passage Reading
 The cab driver requested the **equivalent of 40 dollars for the fare**, which seemed reasonable, so we handed him the money.  
 
 But the host **grabbed the bills and initiated a verbal assault upon the cabby**, calling him a **worthless parasite and a disgrace to their country** for trying to overcharge visitors. The host threw half the amount at the driver and told him never to return.
 
-#Teacher's input in Chat:  
+##Teacher's input in Chat:  
 
 
-#Review:
-##Passed Test after class.
+##Review:
+###Passed Test after class.
 //DONE
 
-##Video in review
+###Video in review

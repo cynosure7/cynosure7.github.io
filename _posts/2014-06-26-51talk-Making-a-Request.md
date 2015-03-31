@@ -6,7 +6,7 @@ category: life
 tags: English
 ---
 **Language Goal: Convey your feelings to others**
-#Vocabulary
+##Vocabulary
 1. deserve  
 They deserve our praise and thanks.
 2. confront  
@@ -26,7 +26,7 @@ She has always been resentful towards me.
 9. specific
 Some specific problems have yet to be solved.
 
-#Phrases
+##Phrases
 1. turn off  
 Could you please turn off the car radio?
 2. go through  
@@ -40,18 +40,18 @@ We have come to the conclusion that he was lying.
 6. clean up  
 It’s your turn to clean up the classroom.
 
-#Grammar
+##Grammar
 Could you speak English, then?  
 He said he couldn’t follow me.  
 Could you let me have your passport?  
 Would you like to change seats? It’s warmer here.  
 I would like you to fetch that document for me now. 
 
-#Video in preview
+##Video in preview
 ...
 
 
-#Teacher's suggestions
+##Teacher's suggestions
 **GRAMMAR CORRECTIONS:**  
 ✘ I wish there were no noisy.  
 ✔ I wish there will be silence.  
@@ -71,14 +71,14 @@ No mispronunciations but you can practice these words:
 
 3. assertive = /əˈsɜː.tɪv/ describes someone who behaves confidently and is not frightened to say what they want or believe: If you really want the promotion, you`ll have to be more assertive.
 
-#Dialogue Reading
+##Dialogue Reading
 May I have a word with you?  
 Could you also turn the **stereo** off, please?  
 The walls are really thin, so the sound goes through to my apartment.
 It's not very pleasant to see it in the **hallway**.  
 I'm so sorry for what I have done to offend you.
 
-#Passage Reading
+##Passage Reading
 If you suffer from social anxiety disorder(SAD), you probably find it even more difficult to do so.
 
 In order to effectively make requests of others, you first need to overcome thi obstacle.
@@ -91,11 +91,11 @@ Once you are in the right frame of mind to ask for what you need, it is importan
 
 This passive communication style will leave you feeling frustrated and resentful.
 
-#Teacher's input in Chat:
+##Teacher's input in Chat:
 //TODO
 
-#Review:
-##Passed Test after class.
+##Review:
+###Passed Test after class.
 
 
-##Video in review
+###Video in review

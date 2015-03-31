@@ -5,12 +5,12 @@ title: Team Trip to Gouqi Island
 category: life
 tags: trip
 ---
-#Background of this trip
+##Background of this trip
 About 2 weeks ago, after a team meeting, manager talked with us about our travel budget. He said, we had not used our travel budget, right? Let's talk about where we can travel to? Do you guys have some suggestions? Jesson said, recently Gouqi Island is very popular; I had heard a lot people around travel there. Ok, done. There is no argument. So Gouqi becomes our travel destination.
-#Brief introduction to Gouqi Island
+##Brief introduction to Gouqi Island
 So where is Gouqi Island? It is in the northeast of Zhoushan Islands, Zhejiang Province. In fact, it is less than 220 kilometers away from the here Suzhou. Gouqi is not a famous attraction in China, but because of its clean water and short distance from Shanghai, it is becoming more and more popular in Yangtze River Delta. It is said Gouqi Island is the nearest place where you can enjoy blue sea for people who live in Yangtze River Delta. And it's not over-commercialized, so you can experience quiet and peace there.
-#trip experience
-##Day 1
+##trip experience
+###Day 1
 Let's go!
 At 5:30 am 16th August, we set out. The weather is cloudy, and the forecast said it would be rain at this weekend. After about 3 hours on highway, we arrived Shenjiawan passenger terminal, and at 9:10 am, our ship sailed well. Though the distance is not long, it cost us about 4 hours on it since the slow ship. Fortunately, nobody got seasickness and we arrived.
 ![view from Nongjiale](http://helloowen.com/album/Gouqi/Gouqi1.JPG)
@@ -22,7 +22,7 @@ After lunch, some guys went to enjoy beach, but my wife and I had rest since we 
 
 A big dinner! Forgive me for no pictures.
 
-##Day 2
+###Day 2
 Fishing!
 ![the way to fishing wharf](http://helloowen.com/album/Gouqi/Gouqi3.JPG)
 ![house on top of the hill](http://helloowen.com/album/Gouqi/Gouqi4.JPG)
@@ -33,7 +33,7 @@ At 8:30 in the morning, the weather was good, and we went to fish, a part of thi
 ![octopus](http://helloowen.com/album/Gouqi/Gouqi8.JPG)
 
 In the afternoon, I tried to swim in the sea, but the sea water tasted bad. It's salt and bitter, I can not bear it so I give up and just continue walk on the beach with my wife and caught crabs.
-##Day 3
+###Day 3
 ![beach in rain](http://helloowen.com/album/Gouqi/Gouqi9.JPG)
 In this morning on Monday, I continued to walked on beach and left some traces, here is our work:
 ![our work on beach](http://helloowen.com/album/Gouqi/Gouqi10.JPG)

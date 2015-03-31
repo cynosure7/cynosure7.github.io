@@ -6,7 +6,7 @@ category: life
 tags: English
 ---
 **Language Goal: Talking about consequence**
-#Vocabulary
+##Vocabulary
 1. remind  
 Remind her to come earlier tomorrow morning.
 2. squeeze  
@@ -32,7 +32,7 @@ There was no need for remorse or regret, he told himself.
 12. impetus 
 Children need an impetus to study.
 
-#Phrases
+##Phrases
 1. let somebody down  
 Don’t let yourself down if somebody doesn’t like you—not everybody can be friends.
 2. make something up to someone  
@@ -46,7 +46,7 @@ The milk has been watered down.
 6. be bound to  
 Study hard, or you will be bound to fail the final examination.
 
-#Grammar
+##Grammar
 You are absolutely right.  
 I’m almost ready.  
 The box isn’t big enough.  
@@ -59,11 +59,11 @@ He had only six apples.
 I’m terribly sorry for what I did.  
 Do you think the music is too loud?
 
-#Video in preview
+##Video in preview
 ...
 
 
-#Teacher's suggestions
+##Teacher's suggestions
 **GRAMMAR CORRECTIONS:**  
 ✘ I will make something up to you.  
 ✔ I will make it up to you.
@@ -81,7 +81,7 @@ No mispronunciations but you can practice these words:
 
 3. repent = /rɪˈpent/ to be very sorry for something bad you have done in the past and wish that you had not done it: He repented (of his sins) just hours before he died.
 
-#Dialogue Reading
+##Dialogue Reading
 concert tickets  
 It just escaped me.  
 I've being forward to this performance all month.  
@@ -97,7 +97,7 @@ How could you possibly make it up to me.
 --I apollogize for my mistakes on this quiz.  
 --That's why you take quizzes-to learn!
 
-#Passage Reading
+##Passage Reading
 How does one make a sincere apology?  
 1. Take responsibility for your actions
 2. Ask for forgiveness OR **offer redress**
@@ -111,7 +111,7 @@ After you **uttered those humbling words**, address what you did in **concise **
 When you make a sincere apology, it isn't the time to impose some ,oral duty; it's the time to throw out that hope of forgiveness withou implying any demands.  
 This last step, however, may be the most difficult because the impetus to throw a variety of tags onto our apologies is sometimes over whelming. Continuing to talk only water down everything that's already been said. More often than not, we see this moment as an opportunity to squeeze in the last word and save face by somehow mitigating our mistakes. In doing so, you're bound to torpedo the whole apology. Shut up, don't say another word, and allow the matter end then and there.
 
-#Teacher's input in Chat:
+##Teacher's input in Chat:
 Teacher Chawee 13:05:36   
 lying is bad  
 Teacher Chawee 13:05:49   
@@ -164,7 +164,7 @@ anesthesia brain
 Teacher Chawee 13:48:25   
 Peter  
 
-#Review:
-##Passed Test after class.
+##Review:
+###Passed Test after class.
 
-##Video in review
+###Video in review
