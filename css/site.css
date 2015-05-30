@@ -106,7 +106,6 @@ article {
 
 /* Header and navigation */
 header {
-  font-family: 'Asap', sans-serif;
   font-weight: bold;
 }
 
@@ -369,7 +368,7 @@ article h1 {
 
 .post pre, .post code, .post pre code {
   	font-size:.86rem;
-  	font-family: Consolas,"Liberation Mono",Courier,monospace;/*设置代码字体类型*/
+  	font-family: Consolas,"Liberation Mono",Courier,monospace;
 }
 
 .post ul, .post ol {
