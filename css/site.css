@@ -127,7 +127,7 @@ header nav {
 
 .separator {
   padding-bottom: 0.8em;
-  margin-bottom: 1.4em;
+/*  margin-bottom: 1.4em;*/
 }
 
 header .logo a, header .logo a:hover {
@@ -276,7 +276,7 @@ footer .links a:hover {
 
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   padding-left: 0;
 }
 
