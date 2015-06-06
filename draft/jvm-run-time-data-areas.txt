@@ -1,0 +1,5 @@
+http://www.programcreek.com/2013/04/jvm-run-time-data-areas/
+http://javapapers.com/core-java/java-jvm-run-time-data-areas/
+http://www.javalaunch.com/WhatisJVM.html
+http://www.codeproject.com/Articles/30422/How-the-Java-Virtual-Machine-JVM-Works
+http://www.yourkit.com/docs/kb/sizes.jsp
