@@ -1,5 +1,5 @@
 ---
-date: 2014-07-20 20:29:00+00:00
+date: 2014-07-20
 layout: post
 title: What is OAuth 2.0? - My Understanding OAuth 2.0
 category: tech

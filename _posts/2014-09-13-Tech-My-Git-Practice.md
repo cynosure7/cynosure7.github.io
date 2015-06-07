@@ -1,5 +1,5 @@
 ---
-date: 2014-09-13 11:33:00+00:00
+date: 2014-09-13
 layout: post
 title: My Git Practice (to be continued...)
 category: tech

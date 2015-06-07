@@ -1,5 +1,5 @@
 ---
-date: 2014-08-18 22:05:00+00:00
+date: 2014-08-18
 layout: post
 title: Team Trip to Gouqi Island
 category: life

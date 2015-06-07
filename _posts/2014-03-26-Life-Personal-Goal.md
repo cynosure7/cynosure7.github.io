@@ -1,5 +1,5 @@
 ---
-date: 2014-03-26 17:05:00+00:00
+date: 2014-03-26
 layout: post
 title: My Personal Goal in 2014
 category: life

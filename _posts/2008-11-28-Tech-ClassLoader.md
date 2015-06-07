@@ -1,5 +1,5 @@
 ---
-date: 2008-11-28 10:29:00+00:00
+date: 2008-11-28
 layout: post
 title: (Learn Java) Introduction to ClassLoader
 category: tech

@@ -1,5 +1,5 @@
 ---
-date: 2014-04-24 15:08:00+00:00
+date: 2014-04-24
 layout: post
 title: Some Ideas for Graduate
 category: tech

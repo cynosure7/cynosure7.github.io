@@ -1,5 +1,5 @@
 ---
-date: 2008-09-27 19:17:00+00:00
+date: 2008-09-27
 layout: post
 title: (Learn Java) How Java Code Works
 category: tech

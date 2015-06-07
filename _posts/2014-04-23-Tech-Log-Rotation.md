@@ -1,5 +1,5 @@
 ---
-date: 2014-04-23 23:19:00+00:00
+date: 2014-04-23
 layout: post
 title: How to Use logrotate to Implement Log Rotation by Both Data and Size
 category: tech

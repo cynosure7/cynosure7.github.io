@@ -1,5 +1,5 @@
 ---
-date: 2014-03-06 22:50:17+00:00
+date: 2014-03-06
 layout: post
 title: My Favourite Music
 category: life

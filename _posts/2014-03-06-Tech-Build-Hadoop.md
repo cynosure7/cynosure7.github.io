@@ -1,5 +1,5 @@
 ---
-date: 2014-03-06 22:50:17+00:00
+date: 2014-03-06
 layout: post
 title: How to Build Hadoop 2.2.0 in CentOS (64bit)
 category: tech

@@ -1,5 +1,5 @@
 ---
-date: 2013-10-12 19:29:00+00:00
+date: 2013-10-12
 layout: post
 title: What is LDAP?
 category: tech

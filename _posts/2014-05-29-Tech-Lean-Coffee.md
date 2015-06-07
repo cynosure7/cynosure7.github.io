@@ -1,5 +1,5 @@
 ---
-date: 2014-05-29 17:40:00+00:00
+date: 2014-05-29
 layout: post
 title: The First Lean Coffee I Attended
 category: tech

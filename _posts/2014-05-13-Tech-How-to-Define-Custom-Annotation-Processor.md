@@ -1,5 +1,5 @@
 ---
-date: 2014-05-16 16:12:00+00:00
+date: 2014-05-16
 layout: post
 title: How to Define a Custom Annotation Processor
 category: tech

@@ -1,5 +1,5 @@
 ---
-date: 2014-11-02 20:29:00+00:00
+date: 2014-11-02
 layout: post
 title: Install Jekyll in Mac OS X Yosemite
 category: tech

@@ -1,5 +1,5 @@
 ---
-date: 2014-03-13 22:36:00+00:00
+date: 2014-03-13
 layout: post
 title: How to Set Hadoop 2.2.0 in CentOS (64bit)
 category: tech

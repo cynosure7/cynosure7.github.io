@@ -1,5 +1,5 @@
 ---
-date: 2014-04-21 08:45:00+00:00
+date: 2014-04-21
 layout: post
 title: Talk With Manager
 category: tech

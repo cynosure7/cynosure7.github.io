@@ -1,5 +1,5 @@
 ---
-date: 2014-11-11 14:06:00+00:00
+date: 2014-11-11
 layout: post
 title: What's New in Java 8 - Parallel Array Sorting
 category: tech
