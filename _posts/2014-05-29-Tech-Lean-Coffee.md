@@ -26,15 +26,15 @@ Now, we need to make a story by the words we post in last session, 3 teams all g
 
 Team 1:   
 When we came to Agile Process, we are struggling to have meetings and confused about it. During the process, we gradually adapted to it and saw its benefits. Now, we get comfortable working in it.  
-![Team 1's paint](http://helloowen.com/album/pics/Story1.png "Team 1's paint")
+![Team 1's paint](/images/pics/Story1.png "Team 1's paint")
 
 Team 2:     
 A young man named Gang wants to be a good coder. When he joined an Agile team, he felt it's just another Cube Farm. He has frustration and feels upset. But after several months, with continues improvement in his team, he feel the strength of Agile and work effectively. Now job is no longer a problem, but an enjoyable experience.  
-![Team 2's paint](http://helloowen.com/album/pics/Story2.png "Team 2's paint")
+![Team 2's paint](/images/pics/Story2.png "Team 2's paint")
 
 Team 3:     
 This is a true story. A project which is built through global cooperation has a new requirement. And it should be done in a limited time. What makes situation worse is no one is clear about this, and different guys have different ideas about. They sync their thought and they finally accomplished it in only one sprint, which is amazing.  
-![Team 3's paint](http://helloowen.com/album/pics/Story3.png "Team 3's paint")
+![Team 3's paint](/images/pics/Story3.png "Team 3's paint")
 
 ##Agile Positive Energy
 Positive Energy 1:  
@@ -47,6 +47,6 @@ Positive Energy 3:
 Another scrum team has worked together for a long time (one and half years). Although there are testers and developers in team, there is no difference between them, everyone can take over user story and they can commit it.
 
 ##I'm in the Lean Coffee (rightmost)
-![I'm in the Lean Coffee](http://helloowen.com/album/pics/me.png "I'm in the Lean Coffee")
+![I'm in the Lean Coffee](/images/pics/me.png "I'm in the Lean Coffee")
 
 [1]:http://leancoffee.org/

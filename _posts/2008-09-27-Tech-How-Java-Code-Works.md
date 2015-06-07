@@ -25,7 +25,7 @@ public class Hello {
 ###Java Compiler
 Java compiler is a program that translates Java source code into the Java bytecodes which is executed by Java Virtual Machine (JVM). `javac hello.java`
 
-![indexed](http://HelloOwen.com/album/java/compiler.jpg)  
+![indexed](/images/java/compiler.jpg)  
 
 ###Java Bytecode
 When Java source file is compiled by Java compiler it is converted into Java class file with .class extension. .class file of each class is separately stored. Its name is same as class name in source file. The class file contains Java bytecode (highly optimized instruction set stored into bytes). A .class file can be executed on any operating system; we just need JVM of that operating system. This makes Java machine independent. We can disassembles Hello.class (javap -c Hello) and see the instructions:
@@ -54,7 +54,7 @@ ing;)V
 JVM is a specification that provides runtime environment in which java bytecode can be executed. There are various implementations provided by Sun and other companies. It is an abstraction layer between a Java application and the underlying platform. The JVM takes your ".class" file, loads it into its virtual memory, links lots of stuff together, and then starts interpreting/executing the program. During linking, your class file will be combined with other classes that are part of the Java environment. Standard classes exist for helping you do things like displaying text on the display, get characters typed on the keyboard, display graphics stuff, communicate over the Internet,...  And, then, off it goes; your program comes to life.
 
 In fact, there are so many things to say about JVM. Here I'll just briefly introduce the structure of JVM, and the function of the main components.
-![indexed](http://HelloOwen.com/album/java/JVM_Arc.png)
+![indexed](/images/java/JVM_Arc.png)
 
 ####Class Loader
 ClassLoader is responsible for loading class files from file system, network or any other source.

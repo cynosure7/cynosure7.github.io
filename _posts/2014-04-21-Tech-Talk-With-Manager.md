@@ -2,7 +2,7 @@
 date: 2014-04-21 08:45:00+00:00
 layout: post
 title: Talk With Manager
-category: life
+category: tech
 tags: Career
 ---
 

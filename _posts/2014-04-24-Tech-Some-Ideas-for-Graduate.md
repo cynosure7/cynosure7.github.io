@@ -2,7 +2,7 @@
 date: 2014-04-24 15:08:00+00:00
 layout: post
 title: Some Ideas for Graduate
-category: life
+category: tech
 tags: graduate tips
 ---
 ##Background

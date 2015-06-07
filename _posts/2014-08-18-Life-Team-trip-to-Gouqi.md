@@ -13,8 +13,8 @@ So where is Gouqi Island? It is in the northeast of Zhoushan Islands, Zhejiang P
 ###Day 1
 Let's go!
 At 5:30 am 16th August, we set out. The weather is cloudy, and the forecast said it would be rain at this weekend. After about 3 hours on highway, we arrived Shenjiawan passenger terminal, and at 9:10 am, our ship sailed well. Though the distance is not long, it cost us about 4 hours on it since the slow ship. Fortunately, nobody got seasickness and we arrived.
-![view from Nongjiale](http://helloowen.com/album/Gouqi/Gouqi1.JPG)
-![Dawang Beach](http://helloowen.com/album/Gouqi/Gouqi2.JPG)
+![view from Nongjiale](/images/travel/Gouqi2014/Gouqi1.JPG)
+![Dawang Beach](/images/travel/Gouqi2014/Gouqi2.JPG)
 
 When we arrived at the Nongjiale, it was almost 2:00 pm. All of us were very hungry. Our last meal is breakfast at 5:00 am, 9 hours ago. The lunch our host prepared for us is Seafood noodles. It was delicious for both itself and our hungry.
 
@@ -24,19 +24,19 @@ A big dinner! Forgive me for no pictures.
 
 ###Day 2
 Fishing!
-![the way to fishing wharf](http://helloowen.com/album/Gouqi/Gouqi3.JPG)
-![house on top of the hill](http://helloowen.com/album/Gouqi/Gouqi4.JPG)
-![little beach](http://helloowen.com/album/Gouqi/Gouqi5.JPG)
+![the way to fishing wharf](/images/travel/Gouqi2014/Gouqi3.JPG)
+![house on top of the hill](/images/travel/Gouqi2014/Gouqi4.JPG)
+![little beach](/images/travel/Gouqi2014/Gouqi5.JPG)
 At 8:30 in the morning, the weather was good, and we went to fish, a part of this trip that I was looking forward to. We jumped on a local fishing boat and fisherman drove us to fishing. After simple training and demo, we got down to fishing. There are many fishes here, and we got good harvest. It is a little pity that we only got one kind of tiny fish.
-![local fishing boat](http://helloowen.com/album/Gouqi/Gouqi6.JPG)
-![Sebastiscus marmoratus](http://helloowen.com/album/Gouqi/Gouqi7.JPG)
-![octopus](http://helloowen.com/album/Gouqi/Gouqi8.JPG)
+![local fishing boat](/images/travel/Gouqi2014/Gouqi6.JPG)
+![Sebastiscus marmoratus](/images/travel/Gouqi2014/Gouqi7.JPG)
+![octopus](/images/travel/Gouqi2014/Gouqi8.JPG)
 
 In the afternoon, I tried to swim in the sea, but the sea water tasted bad. It's salt and bitter, I can not bear it so I give up and just continue walk on the beach with my wife and caught crabs.
 ###Day 3
-![beach in rain](http://helloowen.com/album/Gouqi/Gouqi9.JPG)
+![beach in rain](/images/travel/Gouqi2014/Gouqi9.JPG)
 In this morning on Monday, I continued to walked on beach and left some traces, here is our work:
-![our work on beach](http://helloowen.com/album/Gouqi/Gouqi10.JPG)
+![our work on beach](/images/travel/Gouqi2014/Gouqi10.JPG)
 But it rained heavily in the afternoon, and the ship was behind schedule. So our return did not go well. We arrived home at 10:05 PM, it was very late.
 
 In general, it's a great trip, I enjoyed the sea, and my wife' accompany in this trip. My coworker organized this trip and helped me a lot. Thank you, guys.

@@ -19,21 +19,21 @@ What's that? Well, not everybody has heard that, but for sure, most netizens exp
 Here is a use case demo:
 
 1. I logged in LinedIn and want to connect some friends who are in may Gmail contact. And fortunately LinkedIn supports this, so I clicked this button:  
-![Add Connection](http://helloowen.com/album/pics/AddConnection.png)
+![Add Connection](/images/pics/AddConnection.png)
 
 2. A web page pop up, and it shows the Gmail log in page, when you enter your account and password.  
-![Add Connection](http://helloowen.com/album/pics/loginpage.png)
+![Add Connection](/images/pics/loginpage.png)
 
 3. An consent page shows and I clicked 
-![Add Connection](http://helloowen.com/album/pics/AuthorizationPage.png)
+![Add Connection](/images/pics/AuthorizationPage.png)
 
 4. Now LinkedIn can access my contacts in Gmail:
-![Add Connection](http://helloowen.com/album/pics/result.png)
+![Add Connection](/images/pics/result.png)
 
 ##How it works
 Showing below is the flow chart of the case above.
 
-![Add Connection](http://helloowen.com/album/pics/OAuth.png)
+![Add Connection](/images/pics/OAuth.png)
 
 Step 1: LinkedIn request a token to Authorization Server.
 
