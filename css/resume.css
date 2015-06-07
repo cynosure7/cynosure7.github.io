@@ -14,7 +14,9 @@ ul{margin:0;padding:0;list-style:none}
 .ro-label h3{margin:0;margin-top:-8px;padding:0 0 5px 0;line-height:24px;border-bottom:1px solid rgba(0,0,0,0.1)}
 .ro-label span{float:right;font-weight:500;font-size:1.2rem;line-height:27px;}
 .ro-label h4{margin:0;margin-top:-8px;padding:5px 0 0 0;font-weight:400;color:#777}
-.ro-label p{margin-top:-2px;}
+.ro-label p{margin:0;margin-top:-2px;}
+.resume a{float:right;font-weight:500;font-size:1.2rem;line-height:27px;}
+
 
 .ro-label:after{right:100%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none;border-right-color:#f6f6f6;border-width:10px;top:14px}
 

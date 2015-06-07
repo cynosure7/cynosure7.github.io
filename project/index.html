@@ -7,11 +7,11 @@ category: project
 
 {% for product in site.data.projects %}
   <section>
-    <a href="{{ product.url }}">
-      <img class="inline pull-right" src="/images/project/{{ product.image }}"
+	{% if product.image!="" %}
+    <img class="inline pull-right" src="/images/project/{{ product.image }}"
            alt="{{ product.name }} Screenshot" width="280">
-    </a>
-    <h2><a href="{{ product.url }}">{{ product.name }}</a></h2>
+    {% endif %}
+    <h2>{{ product.name }}</h2>
     <p><strong>My role:</strong> {{ product.role }}</p>
     <p>{{ product.description}}</p>
     <p>

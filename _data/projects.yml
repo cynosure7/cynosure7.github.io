@@ -1,17 +1,27 @@
+- name: Oracle Fusion HCM
+  image: OracleHCM.png
+  url: 
+  role: Application Developer, Scrum Team Member
+  description: Leading product in HR Software market, its functions cover Payroll, Time, Absence and so on. I help to maintain and develop new features for the Maintain Migration Service Module which is used to export and import user data.
+  technologies:
+    - Java
+    - ADF, Oracle
+    - Weblogic
+
 - name: OAuth 2.0 Cisco Implementation
-  image: HABIRH_with_shadow.png
-  url: http://helloowen.com
-  role: Scrum Team Member
+  image: CiscoOAuth.png
+  url: 
+  role: Software Enginner, Scrum Team Member
   description: OAuth 2 Service is the authorization component in the integrated collaboration experience platform. It is based on OAuth 2.0 protocol, the industrial standard authorization protocol, high adoption within service developer community and high interoperability with third party applications. I take charge of some features, bugs fix, and performance tuning.
   technologies:
     - Java
     - Spring, Jersey
-    - LDAP
+    - LDAP, Tomcat
 
 - name: Internet Public Opinion Detection System
-  image: PCVH_with_shadow.png
-  url: http://helloowen.com
-  role: Scrum Team Member
+  image: 
+  url: 
+  role: Software Engineer Intern, Scrum Team Member
   description: The system detects the Internet information contains the keywords provided by the users. It can detect emergencies and provide early warning service in real-time. My work involves content extraction, meta-search data crawling and comment extraction of the popular portal website.
   technologies:
     - Java
@@ -19,9 +29,9 @@
     - My SQL
 
 - name: IBM VOCA (Voice of Customer Analytic)
-  image: PCVH_with_shadow.png
-  url: http://helloowen.com
-  role: Scrum Team Member
+  image: IBMVOCA.png
+  url: 
+  role: Software Engineer Intern
   description: IBM VOCA is designed to enable businesses to better identify and manage factors critical to ustomer satisfaction by pinpointing the root causes of negative service experiences. I wrote AQL statements to extract latent facets and associated sentiments in unstructured text and used Java to develop statistical view.
   technologies:
     - Java AQL
@@ -29,9 +39,9 @@
     - Unstructed Text Analysis
 
 - name: AIA Group Insurance Department Support System
-  image: PCVH_with_shadow.png
-  url: http://helloowen.com
-  role: Team Member
+  image: 
+  url: 
+  role: Summer Intern
   description: This system provides services such as personnel registration and consulting management for Group Insurance Department. I use ASP and SQL Sever2005 to achieve some functions.
   technologies:
     - ASP
