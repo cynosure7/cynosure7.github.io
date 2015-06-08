@@ -3,7 +3,7 @@ date: 2014-03-06
 layout: post
 title: My Favourite Music
 category: life
-tags: music
+tags:
 ---
 
 心电心 王心凌

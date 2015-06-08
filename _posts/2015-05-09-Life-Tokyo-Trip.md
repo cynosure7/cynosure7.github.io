@@ -3,7 +3,7 @@ date: 2015-05-09
 layout: post
 title: Five-day Trip to Tokyo
 category: life
-tags: Tokyo trip
+tags:
 ---
 
 ##Background

@@ -3,7 +3,7 @@ date: 2014-08-18
 layout: post
 title: Team Trip to Gouqi Island
 category: life
-tags: trip
+tags:
 ---
 ##Background of this trip
 About 2 weeks ago, after a team meeting, manager talked with us about our travel budget. He said, we had not used our travel budget, right? Let's talk about where we can travel to? Do you guys have some suggestions? Jesson said, recently Gouqi Island is very popular; I had heard a lot people around travel there. Ok, done. There is no argument. So Gouqi becomes our travel destination.

@@ -3,7 +3,7 @@ date: 2013-01-09
 layout: post
 title: Three-day Trip to Xiamen
 category: life
-tags: Xiamen trip
+tags:
 ---
 
 ##Background
