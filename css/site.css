@@ -215,7 +215,7 @@ nav a.selected:hover {
 .links {
   border-top: 1px solid #E6E6E6;
   list-style-type: none;
-  font-size: 1.6em;
+  font-size: 2em;
 }
 
 .links li {

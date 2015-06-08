@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?2mpztc');
-	src:url('fonts/icomoon.eot?#iefix2mpztc') format('embedded-opentype'),
-		url('fonts/icomoon.woff?2mpztc') format('woff'),
-		url('fonts/icomoon.ttf?2mpztc') format('truetype'),
-		url('fonts/icomoon.svg?2mpztc#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?qszlb0');
+	src:url('fonts/icomoon.eot?#iefixqszlb0') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?qszlb0') format('truetype'),
+		url('fonts/icomoon.woff?qszlb0') format('woff'),
+		url('fonts/icomoon.svg?qszlb0#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -26,36 +26,21 @@
 .icon-linkedin:before {
 	content: "\e601";
 }
-
 .icon-twitter:before {
 	content: "\e602";
 }
-
 .icon-graduation-cap:before {
 	content: "\e600";
 }
-
 .icon-stack-overflow:before {
 	content: "\e603";
 }
-
 .icon-envelop:before {
 	content: "\e945";
 }
-
-.icon-hammer:before {
-	content: "\e996";
-}
-
-.icon-trophy:before {
-	content: "\e99e";
-}
-
 .icon-briefcase:before {
 	content: "\e9ae";
 }
-
 .icon-github:before {
 	content: "\eab1";
 }
-
