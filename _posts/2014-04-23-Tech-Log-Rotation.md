@@ -1,7 +1,7 @@
 ---
 date: 2014-04-23
 layout: post
-title: How to Use logrotate to Implement Log Rotation by Both Data and Size
+title: How to Use logrotate to Rotate Log by Both Data and Size
 category: tech
 tags: Tomcat Log Rotation
 ---
