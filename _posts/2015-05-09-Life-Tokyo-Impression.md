@@ -8,7 +8,7 @@ tags:
 
 ##Background
 Tokyo Impression.
-##Tranportation
+##Transportation
 ![departure](/images/travel/Tokyo2015/day1/IMG_0002.png)
 ![departure](/images/travel/Tokyo2015/day1/IMG_0004.png)
 ##Downtown
