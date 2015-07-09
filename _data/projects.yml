@@ -18,10 +18,10 @@
     - Spring, Jersey
     - LDAP, Tomcat
 
-- name: Internet Public Opinion Detection System
+- name: Customer Satisfaction Monitoring System
   image: 
   url: 
-  role: Software Engineer Intern, Scrum Team Member
+  role: Software Engineer, Scrum Team Member
   description: The system detects the Internet information contains the keywords provided by the users. It can detect emergencies and provide early warning service in real-time. My work involves content extraction, meta-search data crawling and comment extraction of the popular portal website.
   technologies:
     - Java
@@ -32,7 +32,7 @@
   image: IBMVOCA.png
   url: 
   role: Software Engineer Intern
-  description: IBM VOCA is designed to enable businesses to better identify and manage factors critical to ustomer satisfaction by pinpointing the root causes of negative service experiences. I wrote AQL statements to extract latent facets and associated sentiments in unstructured text and used Java to develop statistical view.
+  description: IBM VOCA is designed to enable businesses to better identify and manage factors critical to customer satisfaction by pinpointing the root causes of negative service experiences. I wrote AQL statements to extract latent facets and associated sentiments in unstructured text and used Java to develop statistical view.
   technologies:
     - Java AQL
     - Spring SystemT Dojo
