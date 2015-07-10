@@ -5,8 +5,6 @@ title: Some Ideas for Graduate
 category: tech
 tags: graduate tips
 ---
-##Background
-This is a wrap-up conversation from talk with manager.
 ##Attitude (subjectivity)
 ###Proactive (Work Hard)
 
