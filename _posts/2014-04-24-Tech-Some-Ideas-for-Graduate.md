@@ -23,7 +23,7 @@ Put oneself in someone else's shoes;
 
 ##Professional Habits(subjectivity)
 ###Make job be traceable
-CDETS-code-PeerReview-Wiki-Rally
+CDETS (Cisco Defect and Enhancement Tracking System)-code-PeerReview-Wiki-Rally
 
 ###Be a conscientious person (Summarize, Blog)
 
