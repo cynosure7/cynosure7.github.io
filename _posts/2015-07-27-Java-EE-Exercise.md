@@ -1,9 +1,9 @@
 ---
 date: 2015-07-27
 layout: post
-title: Java Exercise
+title: Java EE Exercise
 category: tech
-tags: Java
+tags: JavaEE
 ---
 ##Requirement
 Write an application that provides CRUD (create, read, update, delete) RESTful services for customer data. 
@@ -65,5 +65,3 @@ Basic backend input validation.
 Hibernate parameter binding.
 ##ToDo
 Protect API with https, OAuth 2.0.
-##Support
-If you have any problems in deploying/running this project, please feel free to contact me at owen.cao@hotmail.com or 021 0815 1033.
