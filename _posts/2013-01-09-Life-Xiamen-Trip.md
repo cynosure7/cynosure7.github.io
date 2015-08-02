@@ -26,4 +26,4 @@ Three-day trip to Xiamen with my girlfriend.
 ##Day 3
 ![Beach](/images/travel/Xiamen2013/day3/WP_000165.jpg)
 ![Beach](/images/travel/Xiamen2013/day3/WP_000180.jpg)
-![Beach](/images/travel/Xiamen2013/day3/WP_000186.JPG)
+![Beach](/images/travel/Xiamen2013/day3/WP_000186.jpg)
