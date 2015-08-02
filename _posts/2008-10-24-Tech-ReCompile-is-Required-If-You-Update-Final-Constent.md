@@ -1,5 +1,5 @@
 ---
-date: 2011-10-24
+date: 2008-10-24
 layout: post
 title: Recompile Is Required If You Update Compile-time Constant
 category: tech
