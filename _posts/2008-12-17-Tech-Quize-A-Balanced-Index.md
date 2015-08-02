@@ -47,7 +47,7 @@ class Quize {
 			return A.length-1;
 		}
 		/*case 3: A[0]+A[1]+A[k-1] = A[k+1]+...+A[N-1] = 0*/
-        for (int k = 1; k < A.length; k++) {
+        for (int k = 1; k < A.length - 1; k++) {
             if(begin[k-1] == end[k+1])
             return k;
         }
