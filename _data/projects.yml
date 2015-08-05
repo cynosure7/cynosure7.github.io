@@ -1,7 +1,7 @@
 - name: Oracle Fusion HCM
   image: OracleHCM.png
   url: 
-  role: Application Developer, Scrum Team Member
+  role: Applications Developer
   description: Leading product in HR Software market, its functions cover Payroll, Time, Absence and so on. I help to maintain and develop new features for the Maintain Migration Service Module which is used to export and import user data.
   technologies:
     - Java
@@ -11,7 +11,7 @@
 - name: OAuth 2.0 Cisco Implementation
   image: CiscoOAuth.png
   url: 
-  role: Software Enginner, Scrum Team Member
+  role: Software Enginner
   description: OAuth 2 Service is the authorization component in the integrated collaboration experience platform. It is based on OAuth 2.0 protocol, the industrial standard authorization protocol, high adoption within service developer community and high interoperability with third party applications. I take charge of some features, bugs fix, and performance tuning.
   technologies:
     - Java
@@ -21,7 +21,7 @@
 - name: Customer Satisfaction Monitoring System
   image: 
   url: 
-  role: Software Engineer, Scrum Team Member
+  role: Software Engineer, Contractor
   description: The system detects the Internet information contains the keywords provided by the users. It can detect emergencies and provide early warning service in real-time. My work involves content extraction, meta-search data crawling and comment extraction of the popular portal website.
   technologies:
     - Java
