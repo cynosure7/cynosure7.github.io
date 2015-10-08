@@ -98,7 +98,7 @@ Then go to http://localhost:9000, and you will get a report about your project l
 It seems we have a lot to do with this report :)
 
 ##Reference
-http://docs.sonarqube.org/display/SONAR/Installing#Installing-InstallingClientInstallingtheAnalyzers
-http://docs.sonarqube.org/display/SONAR/Installing+and+Configuring+Maven
-http://docs.sonarqube.org/display/SONAR/Analyzing+with+Maven
+[Installing Client and Installing the Analyzers](http://docs.sonarqube.org/display/SONAR/Installing#Installing-InstallingClientInstallingtheAnalyzers)
+[Installing and Configuring Maven](http://docs.sonarqube.org/display/SONAR/Installing+and+Configuring+Maven)
+[Analyzing with Maven](http://docs.sonarqube.org/display/SONAR/Analyzing+with+Maven)
 
