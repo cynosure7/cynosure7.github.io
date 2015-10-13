@@ -99,6 +99,8 @@ It seems we have a lot to do with this report :)
 
 ##Reference
 [Installing Client and Installing the Analyzers](http://docs.sonarqube.org/display/SONAR/Installing#Installing-InstallingClientInstallingtheAnalyzers)
+
 [Installing and Configuring Maven](http://docs.sonarqube.org/display/SONAR/Installing+and+Configuring+Maven)
+
 [Analyzing with Maven](http://docs.sonarqube.org/display/SONAR/Analyzing+with+Maven)
 

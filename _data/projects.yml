@@ -18,16 +18,6 @@
     - Spring, Jersey
     - LDAP, Tomcat
 
-- name: Customer Satisfaction Monitoring System
-  image: 
-  url: 
-  role: Software Engineer, Contractor
-  description: The system detects the Internet information contains the keywords provided by the users. It can detect emergencies and provide early warning service in real-time. My work involves content extraction, meta-search data crawling and comment extraction of the popular portal website.
-  technologies:
-    - Java
-    - HTML Parser
-    - My SQL
-
 - name: IBM VOCA (Voice of Customer Analytic)
   image: IBMVOCA.png
   url: 
@@ -37,15 +27,3 @@
     - Java AQL
     - Spring SystemT Dojo
     - Unstructed Text Analysis
-
-- name: AIA Group Insurance Department Support System
-  image: 
-  url: 
-  role: Summer Intern
-  description: This system provides services such as personnel registration and consulting management for Group Insurance Department. I use ASP and SQL Sever2005 to achieve some functions.
-  technologies:
-    - ASP
-    - SQL Server
-
-
-
