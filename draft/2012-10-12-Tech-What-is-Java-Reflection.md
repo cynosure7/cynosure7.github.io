@@ -1,8 +1,8 @@
 ---
-date: 2012-10-12 19:32:00+00:00
+date: 2012-10-12
 layout: post
 title: What is Java Reflection
-category: Tech
+category: tech
 tags: Reflection
 ---
 #Background

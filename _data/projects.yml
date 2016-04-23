@@ -8,7 +8,7 @@
     - ADF, Oracle
     - Weblogic
 
-- name: OAuth 2.0 Cisco Implementation
+- name: Cisco OAuth 2.0 Implementation
   image: CiscoOAuth.png
   url: 
   role: Software Enginner

@@ -1,8 +1,8 @@
 ---
-date: 2014-09-25 10:29:00+00:00
+date: 2014-09-25
 layout: post
 title: Suggestions from My Mentor
-category: Work
+category: tech
 tags: suggestion
 ---
 #Background
